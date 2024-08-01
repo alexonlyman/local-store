@@ -1,0 +1,16 @@
+alex\manager\security\OAuthClientRequstEnterceptor.class
+alex\manager\repository\StoreUserRepository.class
+alex\manager\entity\Authority.class
+alex\manager\controller\payLoad\NewProductPayload.class
+alex\manager\controller\ProductController.class
+alex\manager\ManagerApplication.class
+alex\manager\controller\ProductsController.class
+alex\manager\client\ProductsRestClient.class
+alex\manager\entity\StoreUser.class
+alex\manager\client\ProductsRestClientImpl.class
+alex\manager\entity\Product.class
+alex\manager\config\ClientBeans.class
+alex\manager\client\ProductsRestClientImpl$1.class
+alex\manager\client\BadRequestException.class
+alex\manager\config\SecurityBeans.class
+alex\manager\controller\payLoad\EditProductPayload.class

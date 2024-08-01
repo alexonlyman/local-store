@@ -1,0 +1,11 @@
+alex\catalogue\config\SecurityBeans.class
+alex\catalogue\controller\BadRequestControllerAdvice.class
+alex\catalogue\controller\payLoad\EditProductPayload.class
+alex\catalogue\controller\payLoad\NewProductPayload.class
+alex\catalogue\controller\ProductsRestController.class
+alex\catalogue\service\ProductService.class
+alex\catalogue\repository\ProductRepository.class
+alex\catalogue\controller\ProductRestController.class
+alex\catalogue\entity\Product.class
+alex\catalogue\CatalogueServiceApplication.class
+alex\catalogue\service\ProductServiceImpl.class

@@ -1,0 +1,28 @@
+local-store:
+  service:
+    catalogue:
+      uri: http://localhost:8081
+      registrationId: keycloak
+spring:
+  jpa:
+    show-sql: true
+  datasource:
+    url: jdbc:postgresql://localhost:5432/user_management
+    username: postgres
+    password: postgres
+  security:
+    oauth2:
+      client:
+        provider:
+          keycloak:
+            issuer-uri: http://localhost:8082/realms/manager-app
+            user-name-attribute: preferred_username
+        registration:
+          keycloak:
+            client-id: manager-app
+            client-secret: 0XyoHDPu3bRgKXTet0nuXmfwg2sC5Xo7
+            scope:
+              - openid
+              - viev_catalogue
+              - edit_catalogue
+              - microprofile-jwt

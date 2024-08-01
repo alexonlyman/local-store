@@ -1,0 +1,6 @@
+alex\manager\controller\ProductsControllerIT.class
+alex\manager\security\TestingSecurity.class
+alex\manager\controller\ProductControllerIT.class
+alex\manager\controller\ProductControllerTest.class
+alex\manager\controller\ProductsControllerTest.class
+alex\manager\testingBeans\TestingBeans.class

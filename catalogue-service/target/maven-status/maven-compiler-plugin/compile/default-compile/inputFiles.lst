@@ -1,0 +1,11 @@
+C:\Users\Алекс\Downloads\local-store\catalogue-service\src\main\java\alex\catalogue\CatalogueServiceApplication.java
+C:\Users\Алекс\Downloads\local-store\catalogue-service\src\main\java\alex\catalogue\config\SecurityBeans.java
+C:\Users\Алекс\Downloads\local-store\catalogue-service\src\main\java\alex\catalogue\controller\BadRequestControllerAdvice.java
+C:\Users\Алекс\Downloads\local-store\catalogue-service\src\main\java\alex\catalogue\controller\payLoad\EditProductPayload.java
+C:\Users\Алекс\Downloads\local-store\catalogue-service\src\main\java\alex\catalogue\controller\payLoad\NewProductPayload.java
+C:\Users\Алекс\Downloads\local-store\catalogue-service\src\main\java\alex\catalogue\controller\ProductRestController.java
+C:\Users\Алекс\Downloads\local-store\catalogue-service\src\main\java\alex\catalogue\controller\ProductsRestController.java
+C:\Users\Алекс\Downloads\local-store\catalogue-service\src\main\java\alex\catalogue\entity\Product.java
+C:\Users\Алекс\Downloads\local-store\catalogue-service\src\main\java\alex\catalogue\repository\ProductRepository.java
+C:\Users\Алекс\Downloads\local-store\catalogue-service\src\main\java\alex\catalogue\service\ProductService.java
+C:\Users\Алекс\Downloads\local-store\catalogue-service\src\main\java\alex\catalogue\service\ProductServiceImpl.java

@@ -1,0 +1,15 @@
+C:\Users\Алекс\Downloads\local-store\manager-app\src\main\java\alex\manager\client\BadRequestException.java
+C:\Users\Алекс\Downloads\local-store\manager-app\src\main\java\alex\manager\client\ProductsRestClient.java
+C:\Users\Алекс\Downloads\local-store\manager-app\src\main\java\alex\manager\client\ProductsRestClientImpl.java
+C:\Users\Алекс\Downloads\local-store\manager-app\src\main\java\alex\manager\config\ClientBeans.java
+C:\Users\Алекс\Downloads\local-store\manager-app\src\main\java\alex\manager\config\SecurityBeans.java
+C:\Users\Алекс\Downloads\local-store\manager-app\src\main\java\alex\manager\controller\payLoad\EditProductPayload.java
+C:\Users\Алекс\Downloads\local-store\manager-app\src\main\java\alex\manager\controller\payLoad\NewProductPayload.java
+C:\Users\Алекс\Downloads\local-store\manager-app\src\main\java\alex\manager\controller\ProductController.java
+C:\Users\Алекс\Downloads\local-store\manager-app\src\main\java\alex\manager\controller\ProductsController.java
+C:\Users\Алекс\Downloads\local-store\manager-app\src\main\java\alex\manager\entity\Authority.java
+C:\Users\Алекс\Downloads\local-store\manager-app\src\main\java\alex\manager\entity\Product.java
+C:\Users\Алекс\Downloads\local-store\manager-app\src\main\java\alex\manager\entity\StoreUser.java
+C:\Users\Алекс\Downloads\local-store\manager-app\src\main\java\alex\manager\ManagerApplication.java
+C:\Users\Алекс\Downloads\local-store\manager-app\src\main\java\alex\manager\repository\StoreUserRepository.java
+C:\Users\Алекс\Downloads\local-store\manager-app\src\main\java\alex\manager\security\OAuthClientRequstEnterceptor.java
